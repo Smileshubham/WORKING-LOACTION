@@ -127,7 +127,7 @@ ul:hover li a:not(:hover){
 	display: none;
 }
 input[type="email"]:invalid{
-    border:1px solid red;
+
 }
 .signup{
 	position: relative;
