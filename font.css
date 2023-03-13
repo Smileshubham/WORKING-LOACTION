@@ -62,7 +62,7 @@ ul:hover li a{
 ul:hover li a:not(:hover){
     color: white;
     opacity: 0.15s;
-    filter: blur(.5px);
+
 }
 .logi{
     width: 100px;
